@@ -1,0 +1,13 @@
+.github/workflows/publish.yml
+.gitignore
+LICENSE
+README.md
+__init__.py
+ffmpeg_bin/put_ffmpeg_here
+ffmpeg_config.ini
+ffmpeg_path_resolver.py
+node_logger.py
+nodes.py
+pyproject.toml
+requirements.txt
+screenshots/screenshot.png
